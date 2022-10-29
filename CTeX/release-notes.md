@@ -1,3 +1,7 @@
+---
+title: 版本说明
+menu_order: 2
+---
 - v3.0.202.0 -- 2022.10.24
 	- 修改版本号格式为 major.minor.build.stage，最后一个数字： 0-alpha, 1-beta, 2-release
 	- 升级 MiKTeX-x86 21.6-20221024
