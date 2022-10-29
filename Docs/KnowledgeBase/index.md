@@ -1,5 +1,5 @@
 ---
-title: TeX 基本知识
+title: 知识库
 menu_order: 1
 ---
 ## TeX 及其扩展
