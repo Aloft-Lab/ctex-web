@@ -9,8 +9,8 @@ title: CTEX 中文科技排版
     - [国科大学位论文模板](https://github.com/mohuangrui/ucasthesis) ｜ [博士后工作报告模板](https://github.com/Aloft-Lab/CTEX-Templates/tree/master/PostDocRep)
 
 ### 快速链接
-- 相关网站：[TeX@smth](http://www.smth.org/bbsdoc.php?board=TeX) | [TUG](https://tug.org) | [CTAN](https://ctan.org) | [TUNA](https://mirrors.tuna.tsinghua.edu.cn)
-- TeX 发行版：[TeXLive (Unix/Linux/Windows)](https://tug.org/texlive/) | [MacTeX (macOS)](https://tug.org/mactex/) | [MiKTeX (Windows/Linux/macOS)](https://miktex.org)
+- 相关网站：[TeX@smth](http://www.smth.org/bbsdoc.php?board=TeX) ｜ [TUG](https://tug.org) ｜ [CTAN](https://ctan.org) ｜ [TUNA](https://mirrors.tuna.tsinghua.edu.cn)
+- TeX 发行版：[TeXLive (Unix/Linux/Windows)](https://tug.org/texlive/) ｜ [MacTeX (macOS)](https://tug.org/mactex/) ｜ [MiKTeX (Windows/Linux/macOS)](https://miktex.org)
 
 ---
 [京ICP备05002817号-3](http://beian.miit.gov.cn) &nbsp;&nbsp;&nbsp; ![](/_images/police.png)[京公网安备11010802027850号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027850)
