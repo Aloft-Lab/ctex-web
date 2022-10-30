@@ -1,14 +1,6 @@
 ---
 title: CTEX 中文科技排版
 ---
-### 新闻公告 
-
-- 2022.10.28
-	- 新版 CTeX 套装发布 alpha 测试版，欢迎试用
-- 2022.05.14
-	- 更新 PackagePostDocRep 博士后工作报告宏包 v0.1g
-- [更多新闻公告](./news/)
-
 ### CTEX项目
 - [CTEX开发小组](https://github.com/CTeX-org)
 - CTeX套装: [更新记录](./CTeX/release-notes.md) ｜ [下载中心](./CTeX/download.md)
