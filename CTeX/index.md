@@ -4,6 +4,11 @@ menu_order: 2
 ---
 CTeX 中文套装是基于 Windows 下的 MiKTeX 系统，集成了编辑器 WinEdt 和 PostScript 处理软件 Ghostscript 和 GSview 等主要工具。 CTeX 中文套装在 MiKTeX 的基础上增加了对中文的完整支持。 CTeX 中文套装支持 CJK, xeCJK, CCT, TY 等多种中文 TeX 处理方式。
 
+## 问题反馈
+
+- [CTeX 套装安装问题](https://github.com/Aloft-Lab/CTeX-Installer/issues)
+- [TeX/LaTeX 使用问题](https://github.com/CTeX-org/forum/issues)
+
 ## 版权说明
 
 CTeX 中文套装只用于科研与学术目的，不得以任何理由用于商业目的。CTeX 中文套装中包含的所有免费、共享软件的版权均属于其原作者。安装程序的版权属于 CTEX。
