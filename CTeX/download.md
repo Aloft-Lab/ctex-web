@@ -8,13 +8,13 @@ menu_order: 1
 
 - CTeX 3.0.208.0 (alpha)
 	- 包含 MiKTeX 基本安装和中文常用宏包
-	- 下载：[OneDrive](https://1drv.ms/u/s!As6QliRcBFJ_hIB_g4BBEQ53E5PsRw?e=jrRqkF) | [百度网盘](https://pan.baidu.com/s/1sGqK_Z8yp_cIBUBwjvyzRg?pwd=fv4d)
+	- 下载：[OneDrive](https://1drv.ms/u/s!As6QliRcBFJ_hIB_g4BBEQ53E5PsRw?e=jrRqkF) | [百度网盘](https://pan.baidu.com/s/1sGqK_Z8yp_cIBUBwjvyzRg?pwd=fv4d) | [腾讯微云](https://share.weiyun.com/Kac9KgSV)
 	- 问题反馈请访问 [GitHub](https://github.com/Aloft-Lab/CTeX-Installer/issues)
 
 ## 稳定版本 {#stable}
 
 - CTeX 2.9.2.167
-	- 下载：[OneDrive](https://1drv.ms/u/s!As6QliRcBFJ_hIB-yJizYYAdenO3JQ?e=hFz4ck) | [百度网盘](https://pan.baidu.com/s/1rCkNE_fU_6DcfCY3YHyHjA?pwd=7nvt)
+	- 下载：[OneDrive](https://1drv.ms/u/s!As6QliRcBFJ_hIB-yJizYYAdenO3JQ?e=hFz4ck) | [百度网盘](https://pan.baidu.com/s/1rCkNE_fU_6DcfCY3YHyHjA?pwd=7nvt) | [腾讯微云](https://share.weiyun.com/FhBkxjMT)
 	- 问题反馈请访问 [GitHub](https://github.com/Aloft-Lab/CTeX-Installer/issues)
 
 ## 过时版本
