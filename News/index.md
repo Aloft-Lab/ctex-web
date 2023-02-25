@@ -2,8 +2,10 @@
 title: 新闻公告
 menu_order: 1
 ---
+- 2023.02.25
+	- <font color="red">CTeX 套装发布 3.0.212 beta 稳定版，欢迎使用</font>
 - 2023.01.23
-	- <font color="red">CTeX 套装发布 3.0.208 alpha 测试版，欢迎试用</font>
+	- CTeX 套装发布 3.0.208 alpha 测试版，欢迎试用
 - 2022.10.30
 	- 正式启用基于 WordPress 的新网站（原网站使用的 WikkaWiki 已于2020年9月终止开发）
 - 2022.10.28

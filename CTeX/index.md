@@ -21,10 +21,10 @@ CTeX 随着 MiKTeX 以及相关软件的升级而不断升级。3.0 之前的版
 - [下载中心](./download.md)
 
 版本 v3.0 包含以下内容：
-- MiKTeX 22.10
-- WinEdt 11.0 (64-bit) / 10.3 (32-bit)
-- GSview 5.0
-- Ghostscript 9.05
+- MiKTeX 23.1
+- WinEdt 11.1 (64-bit) / 10.3 (32-bit)
+- GSview 6.0
+- Ghostscript 10.00.0
 - 中文系统
 - 宏包与模板
 
