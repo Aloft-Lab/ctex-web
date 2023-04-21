@@ -11,7 +11,7 @@ title: CTEX 中文科技排版
     - [CTeX套装安装问题](https://github.com/Aloft-Lab/CTeX-Installer/issues) ｜ [TeX/LaTeX使用问题](https://github.com/CTeX-org/forum/issues)
 
 ### 快速链接
-- 相关网站：[TeX@smth](http://www.smth.org/bbsdoc.php?board=TeX) ｜ [TUG](https://tug.org) ｜ [CTAN](https://ctan.org) ｜ [TUNA](https://mirrors.tuna.tsinghua.edu.cn)
+- 相关网站：[TeX@smth](https://www.newsmth.net/bbsdoc.php?board=TeX) ｜ [TUG](https://tug.org) ｜ [CTAN](https://ctan.org) ｜ [TUNA开源软件镜像](https://mirrors.tuna.tsinghua.edu.cn)
 - TeX发行版：[TeXLive (Unix/Linux/Windows)](https://tug.org/texlive/) ｜ [MacTeX (macOS)](https://tug.org/mactex/) ｜ [MiKTeX (Windows/Linux/macOS)](https://miktex.org)
 
 ---
