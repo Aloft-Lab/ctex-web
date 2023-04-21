@@ -2,6 +2,11 @@
 title: 版本说明
 menu_order: 2
 ---
+- v3.0.215.2 -- 2023.04.20
+  - 升级 MiKTeX 20230420
+  - 升级 Ghostscript 10.01.1
+  - 增加 MiKTeX 预装常用宏包
+&nbsp;
 - v3.0.212.1 -- 2023.02.25
   - 升级 MiKTeX 20230224
   - 升级 WinEdt 11.1 (64-bit)
