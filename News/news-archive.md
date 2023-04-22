@@ -2,6 +2,11 @@
 title: 新闻存档
 menu_order: 1
 ---
+- 2018.11.21
+	- CTEX论坛因故自即日起无限期关闭
+- 2018.04.01
+	- 新版国科大学位论文模版ucasthesis正式发布，欢迎使用: [GitHub](https://github.com/mohuangrui/ucasthesis)
+---
 - 2016.06.15
 	- CTeX 套装主要下载新增中国科技大学开源镜像。感谢中国科大开源镜像提供帮助。
 - 2016.06.13
