@@ -15,23 +15,21 @@ CTeX 中文套装只用于科研与学术目的，不得以任何理由用于商
 
 ## 版本更新
 
-CTeX 随着 MiKTeX 以及相关软件的升级而不断升级。3.0 之前的版本，其版本号由三个数字构成，其中前两个数字表示内含的 MiKTeX 的版本号。从 3.0 版本开始，版本号不再与 MiKTeX 对应，版本号格式修改为 major.minor.build.stage，前两个数字表示主要和次要版本号，第三个数字表示编译版本，最后一个数字表示开发阶段：0-alpha, 1-beta, 2-release（正式发布）。
+CTeX 随着 MiKTeX 以及相关软件的升级而不断升级。3.0 之前的版本，其版本号由三个数字构成，其中前两个数字表示内含的 MiKTeX 的版本号。从 3.0 版本开始，版本号不再与 MiKTeX 对应，版本号格式修改为 major.minor.build.stage，前两个数字表示主要和次要版本号，第三个数字表示编译版本，最后一个数字表示开发阶段：
+- 0: alpha，功能可能不完整，或者不稳定
+- 1: beta，稳定测试版
+- 2: release，正式发布
+- 3: update，微小更新
 
-- [版本说明](./release-notes.md)
+## 最新下载
+
+- [更新记录](./release-notes.md)
 - [下载中心](./download.md)
 
-版本 v3.0 包含以下内容：
+最新版本 v3.0 包含以下内容：
 - MiKTeX 23.4
 - WinEdt 11.1 (64-bit) / 10.3 (32-bit)
 - GSview 6.0
 - Ghostscript 10.01.1
-- 中文系统
-- 宏包与模板
-
-版本 v2.9.2 包含以下内容：
-- MiKTeX 2.9
-- WinEdt 7.0
-- GSview 5.0
-- Ghostscript 9.05
 - 中文系统
 - 宏包与模板

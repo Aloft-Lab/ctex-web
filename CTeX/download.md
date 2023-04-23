@@ -9,7 +9,8 @@ menu_order: 1
 
 ## 稳定版本 {#stable}
 
-- CTeX 3.0.215.2
+- CTeX 3.0.216.3
+	- 先安装 3.0.215.2 主版本，然后安装 3.0.216.3 更新程序
 	- 包含 MiKTeX 基本安装和中文常用宏包
 	- 下载：[TUNA](https://mirrors.tuna.tsinghua.edu.cn/ctex/3.0/) | [OneDrive](https://1drv.ms/u/s!As6QliRcBFJ_hIB_g4BBEQ53E5PsRw?e=jrRqkF) | [百度网盘](https://pan.baidu.com/s/1sGqK_Z8yp_cIBUBwjvyzRg?pwd=fv4d) | [腾讯微云](https://share.weiyun.com/Kac9KgSV)
 	- 问题反馈请访问 [GitHub](https://github.com/Aloft-Lab/CTeX-Installer/issues)

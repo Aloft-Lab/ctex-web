@@ -2,8 +2,10 @@
 title: 新闻公告
 menu_order: 1
 ---
+- 2023.04.23
+	- <font color="blue">CTeX 3.0.216 更新发布（不使用 CCT 的用户无需更新）</font>
 - 2023.04.21
-	- <font color="red">CTeX 套装发布 3.0.215 稳定版，欢迎使用</font>
+	- <font color="red">CTeX 套装发布 3.0.215 正式稳定版，欢迎使用</font>
 - 2023.02.25
 	- CTeX 套装发布 3.0.212 beta 稳定版，欢迎使用
 - 2023.01.23
