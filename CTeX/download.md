@@ -4,17 +4,28 @@ menu_order: 1
 ---
 > 由于变动较大，CTeX 3.0 无法从 2.9.2 以及更旧的版本直接升级，请卸载旧版本后重新安装。
 
-## 测试版本 {#testing}
-
-
 ## 稳定版本 {#stable}
 
 - CTeX 3.0.216.3
-	- 先安装 3.0.215.2 主版本，然后安装 3.0.216.3 更新程序
-	- 包含 MiKTeX 基本安装和中文常用宏包
 	- 下载：[TUNA](https://mirrors.tuna.tsinghua.edu.cn/ctex/3.0/) | [OneDrive](https://1drv.ms/u/s!As6QliRcBFJ_hIB_g4BBEQ53E5PsRw?e=jrRqkF) | [百度网盘](https://pan.baidu.com/s/1sGqK_Z8yp_cIBUBwjvyzRg?pwd=fv4d) | [腾讯微云](https://share.weiyun.com/Kac9KgSV)
 	- 问题反馈请访问 [GitHub](https://github.com/Aloft-Lab/CTeX-Installer/issues)
 
+> 安装程序说明
+
+- 基础版（包含 MiKTeX 基本安装和中文常用宏包）
+	- CTeX_3.0.215.2.exe: 32/64位通用版本
+	- CTeX_3.0.215.2_x86.exe: 32位专用版本
+	- CTeX_3.0.215.2_x64.exe: 64位专用版本
+- 完整版（包含 MiKTeX 完整安装和中文常用宏包）
+	- CTeX_3.0.215.2_Full.exe: 32/64位通用版本，须下载同名的 nsisbin 文件并放在同一目录下
+	- CTeX_3.0.215.2_Full.nsisbin: 数据文件，下载后与同名的 exe 文件放在同一目录下
+- 更新文件
+	- CTeX_3.0.*.3_Update.exe: 须先安装 3.0.215 基础版/完整版，然后再更新
+
+---
+## 测试版本 {#testing}
+
+---
 ## 过时版本
 
 - CTeX 2.9.2.167
