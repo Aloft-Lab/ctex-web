@@ -12,3 +12,7 @@ CTEX.org 是一个关于 TeX 的中文网站，CTEX 是中文 TeX (Chinese TeX)�
 - [GitHub论坛](https://github.com/CTeX-org/forum) 代替CTEX论坛
 
 同时也欢迎广大 TeX 网站、组织、用户和我们合作！
+
+## 联系方式
+
+Email: aloft@ctex.org
