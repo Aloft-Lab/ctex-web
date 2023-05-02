@@ -15,5 +15,5 @@ title: CTEX 中文科技排版
 - TeX发行版：[TeXLive (Unix/Linux/Windows)](https://tug.org/texlive/) ｜ [MacTeX (macOS)](https://tug.org/mactex/) ｜ [MiKTeX (Windows/Linux/macOS)](https://miktex.org)
 
 ---
-[京ICP备05002817号-3](http://beian.miit.gov.cn) &nbsp;&nbsp;&nbsp; ![](/_images/police.png)[京公网安备11010802027850号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027850)
+[京ICP备05002817号-3](https://beian.miit.gov.cn) &nbsp;&nbsp;&nbsp; ![](/_images/police.png)[京公网安备11010802027850号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027850)
 
