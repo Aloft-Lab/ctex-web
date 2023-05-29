@@ -2,8 +2,11 @@
 title: 下载中心
 menu_order: 1
 ---
-> 由于变动较大，CTeX 3.0 无法从 2.9.2 以及更旧的版本直接升级，请卸载旧版本后重新安装。
+### 科技教育网镜像站下载
 
+- [BFSU](https://mirrors.bfsu.edu.cn/ctex/) | [ISCAS](https://mirror.iscas.ac.cn/ctex/) | [NJU](https://mirror.nju.edu.cn/ctex/) | [SJTU](https://mirrors.sjtug.sjtu.edu.cn/ctex/) | [TUNA](https://mirrors.tuna.tsinghua.edu.cn/ctex/) | [USTC](https://mirrors.ustc.edu.cn/ctex/)
+
+---
 ## 稳定版本 {#stable}
 
 - CTeX 3.0.216.3
@@ -11,6 +14,7 @@ menu_order: 1
 	- 问题反馈请访问 [GitHub](https://github.com/Aloft-Lab/CTeX-Installer/issues)
 
 > 安装程序说明
+> 由于变动较大，CTeX 3.0 无法从 2.9.2 以及更旧的版本直接升级，请卸载旧版本后重新安装。
 
 - 基础版（包含 MiKTeX 基本安装和中文常用宏包）
 	- CTeX_3.0.215.2.exe: 32/64位通用版本
