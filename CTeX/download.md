@@ -6,6 +6,10 @@ menu_order: 1
 
 - [BFSU](https://mirrors.bfsu.edu.cn/ctex/) | [ISCAS](https://mirror.iscas.ac.cn/ctex/) | [NJU](https://mirror.nju.edu.cn/ctex/) | [SJTU](https://mirrors.sjtug.sjtu.edu.cn/ctex/) | [TUNA](https://mirrors.tuna.tsinghua.edu.cn/ctex/) | [USTC](https://mirrors.ustc.edu.cn/ctex/)
 
+### 海外镜像站下载
+
+- [CICKU](https://mirrors.cicku.me/ctex/)
+
 ---
 ## 稳定版本 {#stable}
 
