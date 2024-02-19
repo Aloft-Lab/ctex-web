@@ -2,6 +2,12 @@
 title: 更新记录
 menu_order: 2
 ---
+- v3.1.217.2 -- 2024.02.18
+  - 升级 MiKTeX 20240218
+  - 升级 Ghostscript 10.02.1
+  - 更新 WinEdt 11.1 (64-bit) 20230519 (默认关闭QuickTeXify)
+  - 更新 SumatraPDF 3.5.2 (32/64)
+&nbsp;
 - v3.0.216.3 -- 2023.04.23
   - 更新 CCT 0.618033-2
 &nbsp;
