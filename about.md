@@ -9,7 +9,7 @@ CTEX.org 是一个关于 TeX 的中文网站，CTEX 是中文 TeX (Chinese TeX)�
 - ~~[论坛](http://bbs.ctex.org) 提问、讨论问题~~（已于2018年11月21日关闭）
 - ~~[FTP](ftp://ftp.ctex.org) 提供软件资料下载、交流~~（已于2015年10月29日关闭）
 - [中文TeX协会](https://github.com/CTeX-org) 中文TeX开发者社区
-- [GitHub论坛](https://github.com/CTeX-org/forum) 代替CTEX论坛
+- [中文TeX用户论坛](https://github.com/CTeX-org/forum) 代替CTEX论坛
 
 同时也欢迎广大 TeX 网站、组织、用户和我们合作！
 
