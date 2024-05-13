@@ -2,6 +2,8 @@
 title: 新闻公告
 menu_order: 1
 ---
+- 2024.05.13
+    - CCT 0.618033-3 发布，修正 patchdvi 错误
 - 2024.02.18
 	- <font color="red">CTeX 3.1 新版发布，欢迎使用</font>
 - 2023.04.23
