@@ -20,7 +20,7 @@ menu_order: 1
 ---
 ## 最新版本 {#latest}
 
-- CTeX 3.1.217.2
+- CTeX 3.1.218.3
 	- 下载：[TUNA](https://mirrors.tuna.tsinghua.edu.cn/ctex/3.1/) | [OneDrive](https://1drv.ms/f/s!As6QliRcBFJ_hJM0HUwdVUmDVyBHcQ?e=H6idV3) | [腾讯微云](https://share.weiyun.com/wYeiMtov)
 	- 问题反馈请访问 [GitHub](https://github.com/Aloft-Lab/CTeX-Installer/issues)
 
