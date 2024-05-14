@@ -22,6 +22,12 @@ CTeX 套装中包含了最新版本的 CCT。
 
 ---
 
+### CCT 相关资源下载
+
+> 由于提供 CCT 相关资源下载的 FTP 服务关闭，其中的资源移到了 HTTP 下，访问路径相同，只需把 ``ftp://`` 改为 ``http://`` 即可
+
+- http://ftp.cc.ac.cn/pub/cct/
+
 ### 科技教育网镜像站下载
 
 - [BFSU](https://mirrors.bfsu.edu.cn/ctex/cct/) | [ISCAS](https://mirror.iscas.ac.cn/ctex/cct/) | [NJU](https://mirror.nju.edu.cn/ctex/cct/) | [SJTU](https://mirrors.sjtug.sjtu.edu.cn/ctex/cct/) | [TUNA](https://mirrors.tuna.tsinghua.edu.cn/ctex/cct/) | [USTC](https://mirrors.ustc.edu.cn/ctex/cct/)
